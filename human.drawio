@@ -43,6 +43,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7bjpnatf0TC-jR-XUUpq-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="435" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7bjpnatf0TC-jR-XUUpq-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7bjpnatf0TC-jR-XUUpq-17" value="人类演化" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="475" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
